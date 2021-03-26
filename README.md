@@ -1,5 +1,6 @@
 # TDT4136-Assignment-3-Pacman
 In this assignment we were supposed to implement the Alpha-Beta pruning and minimax algorithm. 
-This was done in `multiAgent.py`
+We used a pacman game to illustrate how the algorithm works. It was pretty dope
 
+The code forthe algorithms can be found in `multiAgent.py`
 
